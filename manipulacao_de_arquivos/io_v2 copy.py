@@ -6,3 +6,5 @@ for registro in arquivo:
     print('nome: {}, idade: {}'.format(*registro.split(',')))
 
 arquivo.close()
+
+print("ola mundo")
