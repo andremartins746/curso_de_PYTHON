@@ -2,7 +2,7 @@
 # o comprehension e uma forma mais rapida de se criar uma lista em python 
 # nele vc pode colocas toda a esprecao dentro da lista que ele ja te retorna
 #  o resultado da operacao
-dobros =[i * 2 for i in range(10)]
+dobros = [i * 2 for i in range(10)]
 print(dobros)
 
 # versao "normal"
